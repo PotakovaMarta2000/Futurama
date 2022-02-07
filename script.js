@@ -9,4 +9,4 @@ function playsound()
 	
 }
 
-setTimeout(playsound(), 5000);
+/* setTimeout(playsound(), 5000); */
